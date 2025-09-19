@@ -12,6 +12,10 @@
 Подключить внешнюю библиотеку (генерация UUID) и использовать её в /user.
 Запустить и проверить ответы curl/браузером.
 Собрать бинарник .exe и подготовить README и отчёт.
+# Проверка версий git и go
+<img width="419" height="33" alt="изображение" src="https://github.com/user-attachments/assets/f8e282bd-e840-4ff0-ae68-3d25de3a3929" />
+<img width="477" height="31" alt="изображение" src="https://github.com/user-attachments/assets/4a504a61-9f94-4da5-b6e6-fb15eb085480" />
+
 # Запуск
 
 Зайти в папку /helloapi и выполнить go run ./cmd/server
