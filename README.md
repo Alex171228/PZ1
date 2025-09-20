@@ -18,11 +18,11 @@
 
 ## Запуск
 ### 1. Клонировать репозиторий
-git clone https://github.com/Alex171228/helloapi.git
-cd helloapi
+git clone https://github.com/Alex171228/helloapi.git  
+cd helloapi  
 ### 2. Установить зависимости
-go get github.com/google/uuid@latest
-go mod tidy
+go get github.com/google/uuid@latest  
+go mod tidy  
 
 ### 3. Запустить сервер
 Зайти в папку /helloapi и выполнить go run ./cmd/server
