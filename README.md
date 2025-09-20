@@ -40,10 +40,15 @@ go mod tidy
 Проверим работу сервера.  
 ### 1.2 Запрос /hello на порту 8081
 <img width="1187" height="299" alt="изображение" src="https://github.com/user-attachments/assets/98695f9e-2ea5-4c3b-84c2-0f892cb039da" />
+
 ### 2. Запрос /user  
+
 <img width="1262" height="324" alt="изображение" src="https://github.com/user-attachments/assets/bb856bfa-d0c7-4d0d-8215-182885bf9f76" />
+
 ### 3. Запрос /health  
+
 <img width="1375" height="389" alt="изображение" src="https://github.com/user-attachments/assets/f8ab6b5f-96bb-46e8-8182-9e9b4e9a5c07" />
+
 
 
 
