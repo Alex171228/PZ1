@@ -27,22 +27,22 @@ go mod tidy
 
 ### 3. Запустить сервер
 Зайти в папку /helloapi и выполнить go run ./cmd/server
-# Структура проекта:
+## Структура проекта:
 <img width="302" height="225" alt="изображение" src="https://github.com/user-attachments/assets/675b4578-9b6f-46bd-8991-c9345fdf01a2" />
   
-# Доступные запросы и результат их выполнения:
-1.1 Запрос /hello  
+## Доступные запросы и результат их выполнения:
+### 1.1 Запрос /hello  
 <img width="629" height="87" alt="изображение" src="https://github.com/user-attachments/assets/5c2e7494-dea8-47b3-a2ac-d43caab35ae3" />
   
 <img width="928" height="350" alt="изображение" src="https://github.com/user-attachments/assets/dba87eae-00c3-4844-8ecd-9699a16dba3f" />
 
 Сервер по умолчанию запускается на 8080, но порт можно поменять через переменную окружения APP_PORT. Изменим порт на 8081.  
 Проверим работу сервера.  
-1.2 Запрос /hello на порту 8081
+### 1.2 Запрос /hello на порту 8081
 <img width="1187" height="299" alt="изображение" src="https://github.com/user-attachments/assets/98695f9e-2ea5-4c3b-84c2-0f892cb039da" />
-2.Запрос /user  
+### 2.Запрос /user  
 <img width="1262" height="324" alt="изображение" src="https://github.com/user-attachments/assets/bb856bfa-d0c7-4d0d-8215-182885bf9f76" />
-3. Запрос /health  
+### 3. Запрос /health  
 <img width="1375" height="389" alt="изображение" src="https://github.com/user-attachments/assets/f8ab6b5f-96bb-46e8-8182-9e9b4e9a5c07" />
 
 
