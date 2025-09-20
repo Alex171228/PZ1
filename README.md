@@ -22,7 +22,8 @@
 # Структура проекта:
 <img width="302" height="225" alt="изображение" src="https://github.com/user-attachments/assets/675b4578-9b6f-46bd-8991-c9345fdf01a2" />
 
-# Выполнение запросов
+# Доступные запросы и результат их выполнения:
+
 <img width="1187" height="299" alt="изображение" src="https://github.com/user-attachments/assets/98695f9e-2ea5-4c3b-84c2-0f892cb039da" />
 
 <img width="1262" height="324" alt="изображение" src="https://github.com/user-attachments/assets/bb856bfa-d0c7-4d0d-8215-182885bf9f76" />
