@@ -20,7 +20,7 @@
 ## Запуск
 ### 1. Клонировать репозиторий
 git clone https://github.com/Alex171228/PZ1.git  
-cd helloapi  
+cd PZ1 
 ### 2. Установить зависимости
 go get github.com/google/uuid@latest  
 go mod tidy  
