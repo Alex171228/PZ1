@@ -19,7 +19,7 @@
 
 ## Запуск
 ### 1. Клонировать репозиторий
-git clone https://github.com/Alex171228/helloapi.git  
+git clone https://github.com/Alex171228/PZ1.git  
 cd helloapi  
 ### 2. Установить зависимости
 go get github.com/google/uuid@latest  
